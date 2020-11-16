@@ -1,1 +1,4 @@
 # blog
+
+
+personal tech blog
